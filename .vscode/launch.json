@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "unit1-workspace-Sena-Demirel_5df0030e"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
